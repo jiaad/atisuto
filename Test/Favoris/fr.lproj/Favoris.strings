@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; prompt = "Autre test"; ObjectID = "8Mk-KX-gP3"; */
+"8Mk-KX-gP3.prompt" = "Autre test";
+
+/* Class = "UINavigationItem"; title = "Test"; ObjectID = "8Mk-KX-gP3"; */
+"8Mk-KX-gP3.title" = "Test";
+
+/* Class = "UINavigationItem"; title = "Favoris"; ObjectID = "bPE-Bk-6jm"; */
+"bPE-Bk-6jm.title" = "Favoris";
+
+/* Class = "UITabBarItem"; title = "favoris"; ObjectID = "hkq-eW-4s0"; */
+"hkq-eW-4s0.title" = "favoris";
+
+/* Class = "UILabel"; text = "Desc"; ObjectID = "iP2-uM-epA"; */
+"iP2-uM-epA.text" = "Desc";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ie1-dj-lvf"; */
+"ie1-dj-lvf.text" = "Name";

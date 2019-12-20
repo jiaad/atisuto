@@ -1,11 +1,10 @@
 //
-//  AppDelegate.swift
+//  CustomCollectionViewCell.swift
 //  Test
 //
-//  Created by Marcus Florentin on 14/12/2019.
+//  Created by jiad abdul on 14/12/2019.
 //  Copyright © 2019 Marcus Florentin. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
@@ -15,6 +14,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 		// Override point for customization after application launch.
+        let url = Bundle.main.url(forResource: "data", withExtension: "json")!
+      do {
+        let data = try Data(contentsOf: url)
+        allItems = try JSONDecoder().decode([Item].self, from: data)
+      } catch {
+        print(error)
+      }
 		return true
 	}
 

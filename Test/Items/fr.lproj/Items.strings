@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; title = "Feed"; ObjectID = "G9C-GB-hdo"; */
+"G9C-GB-hdo.title" = "Feed";
+
+/* Class = "UILabel"; text = "Nom de l'oeuvre"; ObjectID = "VSO-5C-Yjs"; */
+"VSO-5C-Yjs.text" = "Nom de l'oeuvre";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "aBQ-Nj-2T5"; */
+"aBQ-Nj-2T5.text" = "Catégorie";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "lLy-kJ-aTA"; */
+"lLy-kJ-aTA.text" = "Catégorie";
+
+/* Class = "UITextField"; placeholder = "Entrez le texte"; ObjectID = "nlx-cm-Bm4"; */
+"nlx-cm-Bm4.placeholder" = "Entrez le texte";
+
+/* Class = "UINavigationItem"; title = "Ajouter"; ObjectID = "rKm-rV-CGh"; */
+"rKm-rV-CGh.title" = "Ajouter";

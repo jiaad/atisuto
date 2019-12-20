@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "category": "BD",
+        "title": "Boule et Bill",
+        "author": "jiad",
+        "picture": "https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/9/7/8/9782800141879/tsp20120921184219/Boule-et-Bill.jpg",
+        "date": 1997,
+        "isFavoris": true
+        
+    },
+    {
+        "id": 2,
+        "category": "BD",
+        "title": "Gaston lagaffe",
+        "author": "constance",
+        "picture": "https://www.bedetheque.com/media/Planches/PlancheS_178.jpg",
+        "date": 1997,
+        "isFavoris": false
+    },
+    {
+        "id": 3,
+        "category": "BD",
+        "title": "tunique bleu",
+        "author": "Hafida",
+        "picture": "https://www.bedetheque.com/media/Planches/PlancheS_178.jpg",
+        "date": 1997,
+        "isFavoris": false
+    },
+    {
+        "id": 4,
+        "category": "BD",
+        "title": "marsupilami",
+        "author": "lucien",
+        "picture": "https://bdi.dlpdomain.com/album/9782354260057-couv-M800x1600.jpg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 5,
+        "category": "BD",
+        "title": "titeuf",
+        "author": "amadou",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/51GyARuBnQL._SX363_BO1,204,203,200_.jpg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 6,
+        "category": "Manga",
+        "title": "Dragon ball",
+        "author": "jiad",
+        "picture": "https://images.unsplash.com/photo-1575540325855-4b5d285a3845?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "date": 1997,
+        "isFavoris": true
+        
+    },
+    {
+        "id": 7,
+        "category": "Manga",
+        "title": "Naruto",
+        "author": "constance",
+        "picture": "https://www.micromania.fr/on/demandware.static/-/Sites-Micromania-Library/default/dwd47f2ee2/fanzone/dossier/Naruto/naruto-shippuden.jpg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 8 ,
+        "category": "Manga",
+        "title": "fairy tail",
+        "author": "Hafida",
+        "picture": "https://image.animedigitalnetwork.fr/license/fairytail/tv/web/affiche_370x0.jpg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 9,
+        "category": "Manga",
+        "title": "my hero academia",
+        "author": "lucien",
+        "picture": "https://www.actugaming.net/wp-content/uploads/2018/12/jump-force-min-800x500.jpg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 10,
+        "category": "Manga",
+        "title": "one punch men",
+        "author": "amadou",
+        "picture": "https://static.hitek.fr/img/actualite/ill_m/1122996752/one-piece-1096593-1280x0.jpeg",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 11,
+        "category": "Poesie",
+        "title": "The raven",
+        "author": "jiad",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1845,
+        "isFavoris": true
+        
+    },
+    {
+        "id": 12,
+        "category": "Poesie",
+        "title": "Lenore",
+        "author": "constance",
+        "picture": "https://images.pexels.com/photos/3324720/pexels-photo-3324720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "date": 1843,
+        "isFavoris": true
+    },
+    {
+        "id": 13,
+        "category": "Poesie",
+        "title": "Le dormeur du val",
+        "author": "Hafida",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 14,
+        "category": "Poesie",
+        "title": "connait pas",
+        "author": "lucien",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 15,
+        "category": "Poesie",
+        "title": "connait pas 2",
+        "author": "amadou",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997,
+        "isFavoris": true
+    },
+    {
+        "id": 16,
+        "category": "Litterature",
+        "title": "les misérables",
+        "author": "jiad",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/71TUPPC8RSL.jpg",
+        "date": 1845,
+        "isFavoris": true
+        
+    },
+    {
+        "id": 17,
+        "category": "Litterature",
+        "title": "notre dame de paris",
+        "author": "constance",
+        "picture": "https://images-eu.ssl-images-amazon.com/images/I/51PisvKmKSL.jpg",
+        "date": 1843,
+        "isFavoris": false
+    },
+    {
+        "id": 18,
+        "category": "Litterature",
+        "title": "l'etranger",
+        "author": "Hafida",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/81Tf-rtfGVL.jpg",
+        "date": 1997,
+        "isFavoris": false
+    },
+    {
+        "id": 19,
+        "category": "Litterature",
+        "title": "maladie imaginaire",
+        "author": "lucien",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/711MY-ShErL.jpg",
+        "date": 1997,
+        "isFavoris": false
+    },
+    {
+        "id": 20,
+        "category": "Litterature",
+        "title": "le tartuffe",
+        "author": "amadou",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tartuffe.jpg/500px-Tartuffe.jpg",
+        "date": 1997,
+        "isFavoris": false
+    }
+]

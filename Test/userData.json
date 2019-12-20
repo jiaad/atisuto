@@ -1,0 +1,141 @@
+[
+    {
+        "id": 1,
+        "category": "BD",
+        "title": "Bil et boules",
+        "author": "jiad",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 2,
+        "category": "BD",
+        "title": "Gaston lagaffe",
+        "author": "constance",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 3,
+        "category": "BD",
+        "title": "tunique bleu",
+        "author": "Hafida",
+        "picture": "https://images.pexels.com/photos/3324720/pexels-photo-3324720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "date": 1997
+    },
+    {
+        "id": 4,
+        "category": "BD",
+        "title": "marsupilami",
+        "author": "lucien",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 5,
+        "category": "BD",
+        "title": "titeuf",
+        "author": "amadou",
+        "picture": "https://images.pexels.com/photos/3324720/pexels-photo-3324720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "date": 1997
+    },
+    {
+        "id": 6,
+        "category": "BD",
+        "title": "Dragon ball",
+        "author": "jiad",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+        
+    },
+    {
+        "id": 7,
+        "category": "BD",
+        "title": "Naruto",
+        "author": "constance",
+        "picture": "https://images.pexels.com/photos/3324720/pexels-photo-3324720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "date": 1997
+    },
+    {
+        "id": 8 ,
+        "category": "Manga",
+        "title": "fairy tail",
+        "author": "Hafida",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 9,
+        "category": "Manga",
+        "title": "my hero academia",
+        "author": "lucien",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 10,
+        "category": "Manga",
+        "title": "one punch men",
+        "author": "amadou",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 11,
+        "category": "Poesie",
+        "title": "The raven",
+        "author": "jiad",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1845
+        
+    },
+    {
+        "id": 12,
+        "category": "Poesie",
+        "title": "Lenore",
+        "author": "constance",
+        "picture": "https://images.pexels.com/photos/3324720/pexels-photo-3324720.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "date": 1843
+    },
+    {
+        "id": 13,
+        "category": "Poesie",
+        "title": "Le dormeur du val",
+        "author": "Hafida",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 14,
+        "category": "Poesie",
+        "title": "connait pas",
+        "author": "lucien",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 15,
+        "category": "Poesie",
+        "title": "connait pas 2",
+        "author": "amadou",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1997
+    },
+    {
+        "id": 16,
+        "category": "Litterature",
+        "title": "les misérables",
+        "author": "jiad",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1845
+        
+    },
+    {
+        "id": 17,
+        "category": "Litterature",
+        "title": "notre dame de paris",
+        "author": "constance",
+        "picture": "https://images.pexels.com/photos/3361704/pexels-photo-3361704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "date": 1843
+    }
+]

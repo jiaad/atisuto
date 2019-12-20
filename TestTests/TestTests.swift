@@ -1,11 +1,10 @@
 //
-//  TestTests.swift
-//  TestTests
+//  CustomCollectionViewCell.swift
+//  Test
 //
-//  Created by Marcus Florentin on 14/12/2019.
+//  Created by jiad abdul on 14/12/2019.
 //  Copyright © 2019 Marcus Florentin. All rights reserved.
 //
-
 import XCTest
 @testable import Test
 
